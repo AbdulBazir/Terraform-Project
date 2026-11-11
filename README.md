@@ -1,2 +1,2 @@
 # Terraform-Project
-Provision AWS infrastructure using Terraform, including VPC, EC2, and S3. A hands-on Infrastructure as Code project covering resource provisioning, configuration, and infrastructure lifecycle management.
+An event-driven cloud file processing platform built using Terraform and AWS services (S3, SQS, Lambda, DynamoDB, IAM, and CloudWatch). Developed locally with Floci to practise Infrastructure as Code, cloud automation, secure storage, asynchronous processing, and DevOps workflows.
